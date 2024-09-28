@@ -338,8 +338,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _SceneReference:
-    _Name: SampleScene
-    _Path: Assets/_MainAssets/Scenes/SampleScene.unity
+    _Path: 
+    _BuildIndex: -1
 --- !u!4 &1140509131
 Transform:
   m_ObjectHideFlags: 0
