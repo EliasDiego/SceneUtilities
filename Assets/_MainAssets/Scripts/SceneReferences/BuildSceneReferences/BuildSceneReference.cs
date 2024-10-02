@@ -4,12 +4,10 @@ using UnityEngine;
 namespace YergoLabs.SceneReferences
 {
     [Serializable]
-    public class BuildSceneReference
+    public struct BuildSceneReference
     {
-        [SerializeField] private string _Path;
-        [SerializeField] private int _BuildIndex = -1;
+        [SerializeField] private int _BuildIndex;
 
-        public string Path => _Path;
         public int BuildIndex => _BuildIndex;
     }
 }

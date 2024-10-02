@@ -6,11 +6,13 @@ namespace YergoLabs.SceneReferences
 {
     public class SceneReferenceTest : MonoBehaviour
     {
-        [SerializeField] private BuildSceneReference _SceneReference;
+        [SerializeField] private BuildSceneReference _BuildSceneReference;
+        [SerializeField] private SceneAssetReference _SceneAssetReference;
 
         private void Awake()
         {
-            Debug.Log($"{_SceneReference.BuildIndex} {_SceneReference.Path}");
+            Debug.Log($"{_BuildSceneReference.BuildIndex}");
+            Debug.Log($"{_SceneAssetReference.Path}");
         }
     }
 }
