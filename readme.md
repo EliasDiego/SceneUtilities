@@ -8,18 +8,18 @@ Structs that contain specific properties used to reference a scene through the I
 
 **Referenced scenes are static. They do not updated their properties on changes to the scene, folder, or build settings.*
 
-[preview](images/preview.png)
+![preview](images/preview.png)
 
 ### Build Scene Reference
 
 References the scene through its index in the Build Settings.
 
-[buildSettings](images/buildsettings.png)
+![buildSettings](images/buildsettings.png)
 
-[buildSceneReference](images/scenereference_buildscenereference.gif)
+![buildSceneReference](images/scenereference_buildscenereference.gif)
 
 ### Scene Asset Reference
 
 References through its Asset Path.
 
-[buildSceneReference](images/scenereference_sceneassetreference.gif)
+![buildSceneReference](images/scenereference_sceneassetreference.gif)
