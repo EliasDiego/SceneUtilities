@@ -2,7 +2,7 @@ using System.Linq;
 using UnityEditor;
 using UnityEngine;
 
-namespace YergoLabs.SceneReferences
+namespace YergoLabs.SceneUtilities.SceneReferences
 {
     public abstract class SceneReferencePropertyDrawer : PropertyDrawer
     {

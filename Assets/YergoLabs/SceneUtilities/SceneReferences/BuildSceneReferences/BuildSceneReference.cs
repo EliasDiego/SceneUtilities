@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace YergoLabs.SceneReferences
+namespace YergoLabs.SceneUtilities.SceneReferences
 {
     [Serializable]
     public struct BuildSceneReference
