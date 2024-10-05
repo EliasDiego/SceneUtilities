@@ -340,7 +340,7 @@ MonoBehaviour:
   _BuildSceneReference:
     _BuildIndex: 1
   _SceneAssetReference:
-    _Path: 
+    _Path: Assets/YergoLabs/SceneUtilities/SceneReferences/SampleScene1.unity
 --- !u!4 &1140509131
 Transform:
   m_ObjectHideFlags: 0

@@ -5,7 +5,7 @@ using UnityEditor.Callbacks;
 using UnityEditor.SceneManagement;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using YergoLabs.SceneReferences;
+using YergoLabs.SceneUtilities.SceneReferences;
 
 namespace YergoLabsEditor.Scenes
 {

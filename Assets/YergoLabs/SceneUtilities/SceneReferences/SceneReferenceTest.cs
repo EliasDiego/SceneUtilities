@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace YergoLabs.SceneReferences
+namespace YergoLabs.SceneUtilities.SceneReferences
 {
     public class SceneReferenceTest : MonoBehaviour
     {
